@@ -1,0 +1,14 @@
+{
+  "meteor": {
+    "git": "https://github.com/meteor/meteor.git",
+    "branch": "master"
+  },
+  "packages": {
+    "bootstrap3-less": {},
+    "router": {},
+    "accounts-ui-bootstrap-3": {},
+    "spin": {},
+    "bootstrap-3": {},
+    "z-mongo-admin": {}
+  }
+}
