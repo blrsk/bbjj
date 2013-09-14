@@ -2,3 +2,7 @@ local
 meteorite
 
 tasks.txt
+
+.DS_Store
+smart.json
+smart.lock
