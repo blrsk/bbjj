@@ -1,4 +1,4 @@
-bjj
+BBJJ
 ===
 
-Berkeley BJJ
+BJJ@Berkeley.edu
