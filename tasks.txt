@@ -1,7 +1,0 @@
-
-- Accounts
-- Bootstrap 3
-- Stripe
-- Google Calendar
-
-$300
