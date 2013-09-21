@@ -11,7 +11,8 @@
       "accounts-ui-bootstrap-3": {},
       "spin": {},
       "bootstrap-3": {},
-      "z-mongo-admin": {}
+      "z-mongo-admin": {},
+      "iron-router": {}
     },
     "packages": {
       "bootstrap3-less": {
@@ -43,6 +44,11 @@
         "git": "https://github.com/gterrono/meteor-admin-ui.git",
         "tag": "v0.2.0",
         "commit": "deb7ae9b4042469424ff668c72982fb83fe1cc40"
+      },
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.5.4",
+        "commit": "3e0e22ff85630b7503d0daa1538c6d90abb84020"
       },
       "page-js-ie-support": {
         "git": "https://github.com/tmeasday/meteor-page-js-ie-support.git",

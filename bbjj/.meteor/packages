@@ -6,11 +6,6 @@
 standard-app-packages
 insecure
 preserve-inputs
-less
+iron-router
 bootstrap3-less
-webapp
-router
-bootstrap-3
-spin
-accounts-ui-bootstrap-3
-z-mongo-admin
+less

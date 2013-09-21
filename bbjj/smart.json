@@ -9,6 +9,7 @@
     "accounts-ui-bootstrap-3": {},
     "spin": {},
     "bootstrap-3": {},
-    "z-mongo-admin": {}
+    "z-mongo-admin": {},
+    "iron-router": {}
   }
 }
